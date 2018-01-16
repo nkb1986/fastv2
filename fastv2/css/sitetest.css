@@ -67,3 +67,7 @@ line-height: 100px;
 .paralsec {
 background-image: url("images/space.jpg");
 }
+
+#our_mission {
+  background-color: #090809 !important;
+}
